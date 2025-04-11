@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[218],{218:(e,n,r)=>{r.r(n),r.d(n,{Q1_I:()=>a,Q1_II:()=>l,Q1_III:()=>c});var s=r(43),t=r(579);class a extends s.Component{render(){return s.createElement("h1",{align:"center"},"Hello, React!")}}class l extends s.Component{render(){return(0,t.jsx)("h1",{align:"center",children:"Hello, React!"})}}class c extends s.Component{render(){return(0,t.jsx)("h1",{align:"center",children:"Variable Message"})}}}}]);
-//# sourceMappingURL=218.9a25146a.chunk.js.map

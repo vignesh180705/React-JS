@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[931],{931:(e,s,n)=>{n.r(s),n.d(s,{default:()=>a});var r=n(43),t=n(579);class a extends r.Component{render(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("h1",{align:"center",children:"Question-12"}),(0,t.jsxs)("h3",{align:"center",style:{fontSize:"20px"},children:["Hello, ",this.props.firstName," ",this.props.lastName,"!x"]})]})}}}}]);
-//# sourceMappingURL=931.84a73970.chunk.js.map

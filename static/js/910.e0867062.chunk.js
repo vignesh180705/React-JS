@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[910],{2910:(e,s,n)=>{n.r(s),n.d(s,{default:()=>t});var r=n(579);const t=function(){return(0,r.jsxs)("div",{align:"center",children:[(0,r.jsx)("h1",{children:"Question-4"}),(0,r.jsxs)("p",{style:{fontSize:"25px"},children:["Sum of squares of ",3," and ",4,"=",25]})]})}}}]);
+//# sourceMappingURL=910.e0867062.chunk.js.map

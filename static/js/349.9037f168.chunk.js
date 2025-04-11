@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[349],{4349:(e,n,t)=>{t.r(n),t.d(n,{default:()=>a});t(5043);var r=t(579);function a(){return(0,r.jsxs)("div",{style:{textAlign:"center"},children:[(0,r.jsx)("h1",{children:"Question-10"}),(0,r.jsx)("button",{onClick:()=>(()=>{var e=Math.floor(100*Math.random())+1;document.getElementById("randomNumber").innerHTML=e})(),children:"Generate Random number"}),(0,r.jsx)("p",{style:{fontSize:"20px"},id:"randomNumber"})]})}}}]);
+//# sourceMappingURL=349.9037f168.chunk.js.map

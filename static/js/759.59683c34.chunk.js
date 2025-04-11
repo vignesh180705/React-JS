@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[759],{759:(e,n,s)=>{s.r(n),s.d(n,{default:()=>t});var r=s(579);const t=function(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)("h1",{align:"center",children:"Question-3"}),(0,r.jsx)("i",{children:(0,r.jsx)("p",{align:"center",style:{color:"red",fontSize:"50px"},children:"This is a styled comment"})})]})}}}]);
-//# sourceMappingURL=759.59683c34.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[367,900],{5367:(t,e,n)=>{n.r(e),n.d(e,{default:()=>u});const u={}},8900:(t,e,n)=>{n.r(e),n.d(e,{default:()=>s});n(5367);var u=n(579);const s=function(){return(0,u.jsx)("div",{children:(0,u.jsx)("button",{children:"Styled Button"})})}}}]);
+//# sourceMappingURL=900.d8fefff9.chunk.js.map
