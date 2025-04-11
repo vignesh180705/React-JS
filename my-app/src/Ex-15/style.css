@@ -1,0 +1,12 @@
+
+button{
+    background-color: Blue;
+    padding:10px;
+    font-size:25px
+}
+div{
+    display:flex;
+    height:100vh;
+    justify-content:center;
+    align-items:center
+}
