@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[134],{134:(e,a,r)=>{r.r(a),r.d(a,{default:()=>t});r(43);var n=r(579);function t(){var e=prompt("Enter a year");return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)("h1",{align:"center",children:"Question-11"}),(0,n.jsxs)("p",{align:"center",style:{fontSize:"20px"},children:[e," is ",e%4===0&&e%100!==0||e%400===0?"a Leap Year":"Not a Leap Year"]})]})}}}]);
+//# sourceMappingURL=134.b99ee3c6.chunk.js.map
